@@ -1,0 +1,65 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<head>
+
+  <style>
+    .papertable {
+      width:100%;
+      border:none;
+      border-spacing:0px;
+      border-collapse:separate;
+      margin-right:auto;
+      margin-left:auto;
+      margin-bottom:2em;
+        }
+    .paperimage {
+      padding-right:2.5%;
+      width:30%;
+      max-width:20%;
+      border:none;
+        }
+    .papertext {
+      width:80%;
+      vertical-align:middle;
+      border:none;
+      padding-bottom:5%;
+        }
+  </style>
+</head>
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article>
+      <!-- paper table -->
+    <table class="papertable">
+    <tr style="padding:0px">
+      <td class="paperimage"> 
+        <img src="{{post.image}}" class="nopadimg">
+      </td>
+      <td class="papertext"> 
+        <h2>{{title}}</h2>
+        <p>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+        <p> {{post.authors}}  </p>
+        <!-- <a class="w3-button btn w3-white w3-text-blue w3-border" href="https://simple-bev.github.io/">project page</a> -->
+        <a  href="{{post.paperurl}}">[paper]</a>
+        <a  href="{{post.codeurl}}">[code]</a>
+        {% if post.additional_note %}
+        {{post.additional_note}}
+        {% endif %}
+      </td>
+    </tr>
+  </table>
+
+  </article>
+</div>

@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "News"
+    url: /markdown/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Services"
+    url: /services/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+  
+  - title: "Awards"
+    url: /awards/
+
+  - title: "CV"
+    url: /cv/
+  
