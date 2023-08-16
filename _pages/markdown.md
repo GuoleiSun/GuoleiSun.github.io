@@ -21,6 +21,6 @@ redirect_from:
 
 * (2021/04), one paper is accepted to CVPR 2021!
 
-* (2020/08), we obtain the first prize in WSSS track of <a href="https://lidchallenge.github.io/index.html#schedule"><u>LID workshop in CVPR 2020</u></a> and the best paper award!
+* (2020/08), we obtain the first prize in WSSS track of <a href="https://lidchallenge.github.io/index.html#schedule">LID workshop in CVPR 2020</a> and the best paper award!
 
 * (2020/08), two papers are accepted to ECCV 2020!
