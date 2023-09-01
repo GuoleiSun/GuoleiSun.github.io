@@ -13,6 +13,7 @@ I regularly serve as reviewers for top-tier venues in CV/ML.
 
 Conference reviewers
 ======
+* International Conference on Learning Representations (ICLR)
 * Neural Information Processing Systems (NeurIPS)
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 * International Conference on Computer Vision (ICCV)
