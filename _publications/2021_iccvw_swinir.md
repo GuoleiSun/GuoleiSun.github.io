@@ -1,5 +1,5 @@
 ---
-title: "SwinIR: Image Sestoration using Swin Transformer"
+title: "SwinIR: Image Restoration using Swin Transformer"
 collection: publications
 permalink: /publication/2021_iccvw_swinir
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
