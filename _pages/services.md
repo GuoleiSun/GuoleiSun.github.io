@@ -23,6 +23,7 @@ Conference reviewers
 Journal reviewers
 ======
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* International Journal of Computer Vision (IJCV)
 * IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
