@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Science, Huazhong University of Science & Technology
-* M.S. in computer science, KAUST
 * Ph.D in computer vision & AI, ETH Zurich
+* M.S. in computer science, KAUST
+* B.S. in Science, Huazhong University of Science & Technology
 
 Work experience
 ======
+* Fall 2023: Research Scientist Intern
+  * [Meta AI](https://ai.meta.com/)
+  * Projects: Multi-modal large language models (MLLMs)
+
 * Summer 2023: Research Scientist Intern
   * [Adobe Research](https://research.adobe.com)
   * Projects: Video matting & segmentation
