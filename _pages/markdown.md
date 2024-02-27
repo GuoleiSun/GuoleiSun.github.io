@@ -8,6 +8,7 @@ redirect_from:
   - /markdown.html
 ---
 
+* (2023/03), one paper is accepted to CVPR 2024!
 
 * (2023/03), one paper is accepted to CVPR 2023 and one paper is accepted to ICLR 2023!
 
