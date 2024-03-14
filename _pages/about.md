@@ -11,6 +11,6 @@ I am a postdoctoral researcher at [Computer Vision Lab](https://vision.ee.ethz.c
 
 My research interests lie in video understanding, semantic segmentation, scene understanding, multi-modal AI, and image restoration. I have served as a reviewer for top-tier CV/ML/AI conferences (CVPR, ECCV, ICCV, NeurIPS, ICLR) as well as leading journals (TPAMI, IJCV, TIP).
 
-<strong>Open positions</strong>: If you are a master/PhD student in Switzerland or globally, and you're interested in collaborating, feel free to send me an email with your CV. I am open to discussion and collaboration. 
+<strong>Open positions</strong>: If you are a master/PhD student in Switzerland or globally, and you're interested in collaborating, feel free to send me (guolei.sun@vision.ee.ethz.ch) an email with your CV. I am open to discussion and collaboration. 
 
 
