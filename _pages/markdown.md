@@ -18,7 +18,7 @@ redirect_from:
 
 * (2022/07), one paper is accepted to ECCV 2022!
 
-* (2022/04), one paper is accepted to CVPR 2022!
+* (2022/04), one paper is accepted to CVPR 2022 and one paper is accepted TPAMI!
 
 * (2021/08), we obtain the best paper award in <a href="https://data.vision.ee.ethz.ch/cvl/aim21/">AIM in ICCV 2021</a>!
 
@@ -28,4 +28,4 @@ redirect_from:
 
 * (2020/08), we obtain the first prize in WSSS track of <a href="https://lidchallenge.github.io/index.html#schedule">LID workshop in CVPR 2020</a> and the best paper award!
 
-* (2020/08), two papers are accepted to ECCV 2020!
+* (2020/08), two papers are accepted to ECCV 2020 and one paper is accepted TPAMI!
