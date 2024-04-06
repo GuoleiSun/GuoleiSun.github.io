@@ -8,7 +8,11 @@ redirect_from:
   - /markdown.html
 ---
 
+* (2024/04), one paper is accepted to TPAMI!
+
 * (2024/02), one paper is accepted to CVPR 2024!
+
+* (2023/07), one paper is accepted to TPAMI!
 
 * (2023/03), one paper is accepted to CVPR 2023 and one paper is accepted to ICLR 2023!
 
