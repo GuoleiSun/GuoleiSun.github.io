@@ -8,6 +8,8 @@ redirect_from:
   - /markdown.html
 ---
 
+* (2024/06), Give an invited talk about video segmentation on <a href="https://www.vspwdataset.com/Workshop2024">The 3rd Pixel-level Video Understanding in the Wild @ CVPR2024</a>.
+
 * (2024/04), one paper on video segmentation & visual attention is accepted to TPAMI!
 
 * (2024/02), one paper on 3D point-cloud segmentation & visual attention is accepted to CVPR 2024!
@@ -26,8 +28,10 @@ redirect_from:
 
 * (2021/04), one paper on multi-task learning is accepted to CVPR 2021!
 
-* (2020/08), we obtain the first prize in WSSS track of <a href="https://lidchallenge.github.io/index.html#schedule">LID workshop in CVPR 2020</a> and the best paper award!
-
 * (2020/08), two papers (one on image segmentation & visual attention, one on classification & visual attention) are accepted to ECCV 2020 and one paper on weak supervision is accepted to TPAMI!
+
+* (2020/06), Gave a presentation on <a href="https://lidchallenge.github.io/index.html#schedule">LID workshop @ CVPR 2020</a>.
+
+* (2020/06), we obtain the first prize in WSSS track of <a href="https://lidchallenge.github.io/index.html#schedule">LID workshop in CVPR 2020</a> and the best paper award!
 
 * (2020/03), one paper on camouflage scene understanding is accepted to CVPR 2020!
