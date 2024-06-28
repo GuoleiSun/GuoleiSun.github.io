@@ -14,6 +14,8 @@ redirect_from:
 
 * (2024/02), one paper on 3D point-cloud segmentation & visual attention is accepted to CVPR 2024!
 
+* (2024/01), I successfully defended my PhD at CVL, ETH Zurich!
+
 * (2023/07), one paper on image synthesis & contrastive learning is accepted to TPAMI!
 
 * (2023/03), one paper on camouflaged scene understanding & visual attention is accepted to CVPR 2023 and one paper on image synthesis & contrastive learning is accepted to ICLR 2023!
