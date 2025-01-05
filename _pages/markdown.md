@@ -8,6 +8,8 @@ redirect_from:
   - /markdown.html
 ---
 
+* (2024/12), Three paper are accepted: SAM-aware few-shot segmentation by AAAI 2025, open-vocabulary video segmentation by TMM, video foundation model for medical 3D segmentation by MICCAI 2024 workshop.
+
 * (2024/06), Give an invited talk about video segmentation on <a href="https://www.vspwdataset.com/Workshop2024">The 3rd Pixel-level Video Understanding in the Wild @ CVPR2024</a>.
 
 * (2024/04), one paper on video segmentation & visual attention is accepted to TPAMI!
