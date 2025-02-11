@@ -8,7 +8,9 @@ redirect_from:
   - /markdown.html
 ---
 
-* (2024/12), Three paper are accepted: SAM-aware few-shot segmentation by AAAI 2025, open-vocabulary video segmentation by TMM, video foundation model for medical 3D segmentation by MICCAI 2024 workshop.
+* (2025/01), one paper on multi-modal 3D point-cloud segmentation is accepted to ICLR 2025 as *spotlight* paper (acceptance rate: 5.1%).
+
+* (2024/12), Three paper are accepted: SAM-aware few-shot segmentation to AAAI 2025, open-vocabulary video segmentation to TMM, video foundation model for medical 3D segmentation to MICCAI 2024 workshop.
 
 * (2024/06), Give an invited talk about video segmentation on <a href="https://www.vspwdataset.com/Workshop2024">The 3rd Pixel-level Video Understanding in the Wild @ CVPR2024</a>.
 
