@@ -8,6 +8,8 @@ redirect_from:
   - /markdown.html
 ---
 
+* (2025/02), two papers accepted to CVPR 2025: vision-language model for 3D point-cloud segmentation; video segmentation using mamba.
+
 * (2025/01), one paper on multi-modal 3D point-cloud segmentation is accepted to ICLR 2025 as *spotlight* paper (acceptance rate: 5.1%).
 
 * (2024/12), Three paper are accepted: SAM-aware few-shot segmentation to AAAI 2025, open-vocabulary video segmentation to TMM, video foundation model for medical 3D segmentation to MICCAI 2024 workshop.
