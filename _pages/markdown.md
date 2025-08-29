@@ -7,6 +7,10 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+* (2025/06), three paper accepted to ICCV 2025 inclding one *highlight* paper.
+
+* (2025/06),  will give an invited talk at <a href="https://vap.aau.dk/marinevision/speakers/">ICCV 2025 Workshop CVAUI-AAMVEM</a>.
+
 * (2025/03), one paper accepted to Visual Intelligence: camouflage video segmentation using foundation model SAM2.
 
 * (2025/02), two papers accepted to CVPR 2025: vision-language model for 3D point-cloud segmentation; video segmentation using mamba.
