@@ -11,7 +11,7 @@ redirect_from:
 
 <strong>实验室招收博士后，从南开深圳研究院入职，三年薪资不低于100万，名额有限，请尽快联系（<guolei.sun@nankai.edu.cn>）。<strong>
 
-<strong>实验室招收2027普博和考研生，名额有限，请尽快联系。<strong>
+<strong>实验室招收2027研究生、博士生，名额有限，请尽快联系。<strong>
 
 <strong>实验室常年招收实习生，以及本科生，欢迎联系。<strong>
 
