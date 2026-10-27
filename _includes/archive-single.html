@@ -45,7 +45,9 @@
     <table class="papertable">
     <tr style="padding:0px">
       <td class="paperimage"> 
+        {% if post.image %}
         <img src="{{post.image}}" class="nopadimg">
+        {% endif %}
       </td>
       <td class="papertext"> 
         <h2>{{title}}</h2>
@@ -53,7 +55,9 @@
         <p> {{post.authors}}  </p>
         <!-- <a class="w3-button btn w3-white w3-text-blue w3-border" href="https://simple-bev.github.io/">project page</a> -->
         <a  href="{{post.paperurl}}">[paper]</a>
+        {% if post.codeurl and post.codeurl != '' %}
         <a  href="{{post.codeurl}}">[code]</a>
+        {% endif %}
         {% if post.additional_note %}
         {{post.additional_note}}
         {% endif %}
