@@ -9,7 +9,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.ae/citations?user=qd8Blw0AAAAJ&hl=en>).
 
-\* Equal contribution
+\* Equal contribution; <sup>†</sup> Corresponding author
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
